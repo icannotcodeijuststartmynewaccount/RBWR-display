@@ -17,7 +17,7 @@ class RBWRReactor:
         self.rods_position = 0.0  # %
         self.circulation_flow = 0  # %
         self.xenon_poisoning = 10.1  # %
-        self.fuel_remaining = 82.0  # %
+        self.fuel_remaining = 98.0  # %
         self.is_scrammed = False
         self.is_auto = False
         
